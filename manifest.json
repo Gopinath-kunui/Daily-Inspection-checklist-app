@@ -1,0 +1,25 @@
+{
+  "name": "Daily Site Safety Inspection Checklist",
+  "short_name": "KSBPL Safety",
+  "description": "Daily Site Safety Inspection Checklist — Konart Steel Buildings Pvt. Ltd.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0A2647",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
